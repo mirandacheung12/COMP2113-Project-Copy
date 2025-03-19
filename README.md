@@ -34,7 +34,7 @@ No non-standard C/C++ libraries are used in the project.
 
 ## Compilation and execution instructions
 ```bash
-git clone https://github.com/rainlck/Group20.git
+git clone https://github.com/mirandacheung12/COMP2113-Project-Copy.git
 Enter the following commands after downloading:
 make main
 To play: 
